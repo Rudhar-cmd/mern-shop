@@ -5,7 +5,7 @@ This project focuses on building the frontend of an online shopping platform usi
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive E-Commerce UI
 - Product Listing Page
@@ -18,7 +18,7 @@ This project focuses on building the frontend of an online shopping platform usi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React.js
 - JavaScript
@@ -28,7 +28,7 @@ This project focuses on building the frontend of an online shopping platform usi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 mern-shop/
@@ -41,16 +41,16 @@ mern-shop/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### 1️⃣ Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/Rudhar-cmd/mern-shop.git
 cd mern-shop
 ```
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install
@@ -58,7 +58,7 @@ npm install
 
 ---
 
-## ▶️ Run Project
+## Run Project
 
 ```bash
 npm run dev
@@ -72,22 +72,22 @@ http://localhost:5173
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
-This project can be deployed easily on:
+This project can be deployed on:
 
 - Vercel
 - Netlify
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Add screenshots of your project here.
 
 ---
 
-## 📚 Future Improvements
+## Future Improvements
 
 - Add Backend with Node.js & Express
 - MongoDB Database Integration
@@ -98,7 +98,7 @@ Add screenshots of your project here.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed by Rudhar
 
